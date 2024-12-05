@@ -1,7 +1,7 @@
 <h1 align="center">Hey 👋, I'm rexo.</h1>
 <h3 align="center">Student and Junior Developer from Czech Republic</h3>
 
-- 🌱 I’m currently learning **C# (NET. Framework), TypeScript, Node.js (Electron-Vite, React, Next.js...)**
+- 🌱 I’m currently learning **C# (NET. Framework), Java, TypeScript, Node.js (Electron-Vite, React, Next.js...)**
 - 🌱 I have knowledge in **Python, Lua, HTML, CSS, JavaScript**
 
 - 📫 Reach me on discord **rexo.** or mail **rexosheesh@gmail.com**
